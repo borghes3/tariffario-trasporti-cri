@@ -9,7 +9,7 @@ const font = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Tariffario Trasporti CRI Muggiò",
+  title: "Tariffario Trasporti CRI",
   description: "Calcola velocemente la tariffa per un trasporto",
 };
 
