@@ -1,1 +1,2 @@
 Semplice calcolatore integrato con le API Places (new) e Distance Matrix di Google per il calcolo delle tariffe applicate ai trasporti sanitari non urgenti di Croce Rossa Italiana.
+Il calcolatore è configurato per considerare come punto di partenza del mezzo il Comitato Locale di Muggiò.
